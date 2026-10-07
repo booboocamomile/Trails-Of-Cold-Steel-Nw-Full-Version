@@ -239,4 +239,4 @@ This repository serves as the official landing page for **Trails of Cold Steel: 
 **Get the most recent version of Trails of Cold Steel: NW today!**
 
 ---
-**Last updated:** 2026-10-07 15:27:06 UTC
+**Last updated:** 2026-10-07 21:10:51 UTC
